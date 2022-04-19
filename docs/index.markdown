@@ -4,7 +4,7 @@
 
 layout: home
 ---
-![no war](assets/img/no_war.png)
+![World Stands With Ukraine](assets/img/wswu.png)
 
 # Світ разом з Україною
 
