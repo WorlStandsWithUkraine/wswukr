@@ -4,9 +4,8 @@
 
 layout: home
 ---
+![no war](assets/img/no_war.png)
 
 # Світ разом з Україною
-
-![no war](assets/img/no_war.png)
 
 ### Наша місія
