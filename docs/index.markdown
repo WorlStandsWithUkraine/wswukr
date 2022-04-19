@@ -4,3 +4,9 @@
 
 layout: home
 ---
+
+# Світ разом з Україною
+
+![Church](assets/img/no_war.png)
+
+### Наша місія
