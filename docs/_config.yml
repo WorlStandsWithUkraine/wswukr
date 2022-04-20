@@ -24,8 +24,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   We are an organization that supports Ukrainian people from inside.
   We try to be right there where the help needed the most. Help us to
   continue our mission.
-baseurl: "/wswukr" # the subpath of your site, e.g. /blog
-url: "https://worlstandswithukraine.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://wswukr.com" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
