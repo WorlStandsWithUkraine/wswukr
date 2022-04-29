@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: World Stands With Ukraine
+title: Charity Foundation "World Stands With Ukraine"
 email: helpukraine@wswukr.com
 description: >- # this means to ignore newlines until "baseurl:"
   We are an organization that supports Ukrainian people from inside.
