@@ -1,6 +1,6 @@
 # World Stands With Ukraine web site
  
-Published at https://worlstandswithukraine.github.io/wswukr/
+Published at https://wswukr.com/
 
 # For devs 
 * some resources
