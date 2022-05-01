@@ -22,7 +22,9 @@ title:   Charity Foundation "World Stands With Ukraine"
 email: helpukraine@wswukr.com    
 description: >- # this means to ignore newlines until "baseurl:"
        Ukraine +38(097)2064840
+       
        USA +1(312)9737104
+       
        Canada +1(514)6557827
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://wswukr.com" # the base hostname & protocol for your site, e.g. http://example.com
