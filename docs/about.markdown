@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: SWIFT
 permalink: /about/
 ---
 Company details
